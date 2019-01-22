@@ -5,7 +5,7 @@ here is the source of the books i am putting into the module: http://www.catholi
 feel free to do any book of the bible you like but personally will be completing the wisdom books specifically except the book of job. (job is beast read verse by verse rather than randomly)
 
 
-to add to the project copy each chapter of bible to a text file from http://www.catholic-bible.org/ . then my preferred method of adding quotations is by using notepad++.
+to add to the project copy each chapter of bible to a text file from http://www.catholic-bible.org/ . then my preferred method of adding quotations is by using notepad++ found here for windows> https://notepad-plus-plus.org/download/v7.6.2.html
 make sure you go through and delete any empty lines (every other line).
 you can add quotations to each line by opening the file in notepad++ and click "search>replace" once the replace window comes up to add a quotation mark to the begining of each line do the following:
 in the find what bar type ^
